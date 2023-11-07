@@ -7,7 +7,7 @@ const Dummy = () => {
     queryFn: getDummy,
   });
 
-  return <div> Data: {dummyQuery.data?.text}</div>;
+  return <div> Tranzactie cu success!</div>;
 };
 
 export default Dummy;
